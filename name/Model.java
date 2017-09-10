@@ -44,7 +44,7 @@ public class Model {
 	 * @return the index
 	 */
 	public int getIndex() {
-
+		return 0;
 	}
 
 	/**
